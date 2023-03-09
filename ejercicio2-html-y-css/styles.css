@@ -16,8 +16,9 @@ body {
     margin-top: 185px;
     box-shadow: 7px 13px 35px #000;
     color: white;
-    min-width: 250px;
+    min-width: 300px;
 }
+
 
 .formulario h1 {
     margin: 0;
@@ -27,9 +28,10 @@ body {
 .contenedor {
     width: 100%;
     margin-bottom: 16px;
-    padding: 8px 9px;
+    padding: 7px 9px;
 }
 
 .boton{
     float: right;
+    padding: 5px 15px 5px 15px;
 }
